@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ellieza
-- 👀 I’m interested in Python, Java & Java script
+- 👋 Hi, I’m @Nyah
+- 👀 I’m interested in Python,Typescript, Java & Java script
 - 🌱 I’m currently learning python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
